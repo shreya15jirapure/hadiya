@@ -8,7 +8,7 @@
 3. package.json package-lock.json inside the workdir
 4. perform npm install --location=global nodemon --save-dev
 5. perform npm install
-6. export 2424
+6. export 3000
 7. run the command "node", "/src/index.js inside docker
 
 ## How to run this application
